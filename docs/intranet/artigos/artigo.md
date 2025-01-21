@@ -6,4 +6,4 @@ title: Criação de artigos
 
 # Login
 
-Para criar arquivos, deve logar na [página de administrador do site](intranet.1cgeo.eb.mil.br/administrator)
+Para criar arquivos, deve logar na [página de administrador do site](http://intranet.1cgeo.eb.mil.br/intra/administrator)
