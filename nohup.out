@@ -1,0 +1,76 @@
+
+> wiki-dgeo@0.0.0 serve
+> docusaurus serve --build --port 12000 --host 0.0.0.0
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮│                                                                              ││                        Update available 2.0.1 → 2.2.0                        ││                                                                              ││       To upgrade Docusaurus packages with the latest version, run the        ││                             following command:                               ││       `npm i @docusaurus/core@latest @docusaurus/preset-classic@latest       ││                   @docusaurus/module-type-aliases@latest`                    ││                                                                              │╰──────────────────────────────────────────────────────────────────────────────╯
+
+[INFO] [pt-BR] Creating an optimized production build...
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Client: Compiled successfully in 1.55s
+✔ Server: Compiled successfully in 4.50s
+[SUCCESS] Generated static files in "build".
+[INFO] Use `npm run serve` command to test your build locally.
+[SUCCESS] Serving "build" directory at: http://0.0.0.0:12000/wiki_DGEO/
+
+> wiki-dgeo@0.0.0 serve
+> docusaurus serve --build --port 12000 --host 0.0.0.0
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮│                                                                              ││                        Update available 2.0.1 → 2.2.0                        ││                                                                              ││       To upgrade Docusaurus packages with the latest version, run the        ││                             following command:                               ││       `npm i @docusaurus/core@latest @docusaurus/preset-classic@latest       ││                   @docusaurus/module-type-aliases@latest`                    ││                                                                              │╰──────────────────────────────────────────────────────────────────────────────╯
+
+[INFO] [pt-BR] Creating an optimized production build...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Client: Compiled successfully in 3.58s
+✔ Server: Compiled successfully in 5.09s
+[SUCCESS] Generated static files in "build".
+[INFO] Use `npm run serve` command to test your build locally.
+[SUCCESS] Serving "build" directory at: http://0.0.0.0:12000/wiki_DGEO/
+Killed
+
+> wiki-dgeo@0.0.0 serve
+> docusaurus serve --build --port 12000 --host 0.0.0.0
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮│                                                                              ││                        Update available 2.0.1 → 2.3.1                        ││                                                                              ││       To upgrade Docusaurus packages with the latest version, run the        ││                             following command:                               ││       `npm i @docusaurus/core@latest @docusaurus/preset-classic@latest       ││                   @docusaurus/module-type-aliases@latest`                    ││                                                                              │╰──────────────────────────────────────────────────────────────────────────────╯
+
+[INFO] [pt-BR] Creating an optimized production build...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+ℹ Compiling Client
+ℹ Compiling Server
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+✔ Client: Compiled with some errors in 26.50s
+
+
+Error: Image docs/sap/img/criar_projeto_2.png used in docs/sap/config_proj.md not found.
+    at async Promise.all (index 1)
+[ERROR] Docusaurus server-side rendering could not render static page with path /docs/sap/config_proj.
+✔ Server: Compiled with some errors in 3.05d
+
+
+Error: Image docs/sap/img/criar_projeto_2.png used in docs/sap/config_proj.md not found.
+    at async Promise.all (index 1)
+Error: Image docs/sap/img/criar_projeto_2.png used in docs/sap/config_proj.md not found.
+    at async Promise.all (index 1)
+[ERROR] Unable to build website for locale pt-BR.
+[ERROR] Error: Failed to compile with errors.
+    at /root/doc_dgeo/wiki_dgeo/node_modules/@docusaurus/core/lib/webpack/utils.js:180:24
+    at /root/doc_dgeo/wiki_dgeo/node_modules/webpack/lib/MultiCompiler.js:554:14
+    at processQueueWorker (/root/doc_dgeo/wiki_dgeo/node_modules/webpack/lib/MultiCompiler.js:491:6)
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+[INFO] Docusaurus version: 2.0.1
+Node version: v16.16.0
+npm notice 
+npm notice New minor version of npm available! 9.5.1 -> 9.6.3
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.6.3>
+npm notice Run `npm install -g npm@9.6.3` to update!
+npm notice 
